@@ -28,7 +28,7 @@
 | Project | 목표 | Repository | 1단계 PR | 2단계 PR | 3단계 PR |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |쇼핑 주문 <br>|API 구현, 서버 띄우기<br> 프론트엔드와 협업| [Repository](https://github.com/aak2075/jwp-shopping-order)|x|[2단계 PR](https://github.com/woowacourse/jwp-shopping-order/pull/15) |x|
-|지하철 <br>|복잡한 비즈니스 요구사항 구현<br> 웹 앱에서의 TDD| [Repository](https://github.com/aak2075/jwp-subway-path)| [1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/69) | [2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/131) | [3단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/185)
+|지하철 <br>|복잡한 비즈니스 요구사항 구현<br> 웹 앱에서의 TDD| [Repository](https://github.com/aak2075/jwp-subway-path)| [1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/69) | [2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/131) | x
 |쇼핑 장바구니 <br>|쇼핑몰의 상품 관리 CRUD 구현 |[Repository](https://github.com/aak2075/jwp-shopping-cart)| [1단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/199) | [2단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/309)|x|
 |웹 자동차 경주 <br>| 콘솔 기반 앱을 웹앱으로 변경<br>Spring MVC 처음 도입 |[Repository](https://github.com/aak2075/jwp-racingcar)| [1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/54) | [2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/171) |x|
 
