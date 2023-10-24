@@ -16,7 +16,7 @@
 
 ## Level 3 (2022.06.27 ~ 2022.08.18)
 
-<img width="900" alt="image" src="https://github.com/jaehee329/woowacourse-record/assets/77962265/00b1cdf0-8438-47a7-8860-da2f00190aa5">
+<img width="900" alt="image" src="">
 
 [하루스터디](https://haru-study.com/) 서비스 기획, 구현 및 운영 <br>
 [Repository](https://github.com/woowacourse-teams/2023-haru-study)
