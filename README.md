@@ -7,7 +7,7 @@
 ### 미션
 | Project | 목표 | Repository | 1단계 PR | 2단계 PR | 3단계 PR | 4단계 PR |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|레거시 코드 리팩터링 <br>|서비스를 안정적으로 운영하면서<br> 레거시 코드를 리팩토링| [Repository](https://github.com/aak2075/jwp-refactoring)| [1단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/455) | [2단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/560) | X | X |
+|레거시 코드 리팩터링 <br>|서비스를 안정적으로 운영하면서<br> 레거시 코드를 리팩토링| [Repository](https://github.com/aak2075/jwp-refactoring)| [1단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/455) | [2단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/560) | [3단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/653) | [4단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/732) |
 |JDBC 라이브러리 구현하기 <br>|트랜잭션, JDBCTemplate 구현| [Repository](https://github.com/aak2075/jwp-dashboard-jdbc)| [1단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/310) | [2단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/390) | [3단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/449) | [4단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/594)|
 |@MVC 구현하기 <br>| MVC 프레임워크를 구현<br> 레거시를 새 프레임워크 기반으로 수정 |[Repository](https://github.com/aak2075/jwp-dashboard-mvc)| [1단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/345) | [2단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/458) | [3단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/529) | x |
 |Tomcat 구현하기 <br>| 간단한 웹 서버를 제작<br>스레드 풀을 적용 |[Repository](https://github.com/aak2075/jwp-dashboard-http)| [1단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/332) | [2단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/332) | [3단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/411) | [4단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/411) |
@@ -16,10 +16,13 @@
 
 ## Level 3 (2022.06.27 ~ 2022.08.18)
 
-<img width="900" alt="image" src="">
+### 하루스터디
+뽀모도로 기법을 제공하여 효율적인 스터디를 돕는 서비스. <br/>
+서비스 기획, 구현 및 운영
+![image](https://github.com/aak2075/woowacourse-record/assets/35948985/32424ec3-cb73-42c4-a069-307e6def1f5e)
 
-[하루스터디](https://haru-study.com/) 서비스 기획, 구현 및 운영 <br>
-[Repository](https://github.com/woowacourse-teams/2023-haru-study)
+[하루스터디 바로 가기](https://haru-study.com/) <br/>
+[github repository 바로 가기](https://github.com/woowacourse-teams/2023-haru-study)
 
 <br>
 
